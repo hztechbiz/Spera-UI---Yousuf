@@ -1,0 +1,79 @@
+.star {
+    font-size: 15px;
+    color: #EAAB10;
+    margin: 0 15px 0 0;
+}
+span.star.glyphicon.glyphicon-star-empty {
+    color: #707070;
+}
+.margin-pading-zero{    padding: 0 !important;
+    margin: 0 !important;}
+	.float-left-li li {float:left}ul.todo.float-left-li li .list-profile-img {
+    margin-right: 5px;
+    border: none;
+    box-shadow: none;
+}
+.plus-round {
+    width: 22px;
+    height: 22px;
+    border: 1px solid #C9C9C9;
+    border-radius: 50%;
+    display: block;
+    color: #C9C9C9 !important;
+    font-weight: 100 !important;
+    margin: -2px 0 0 5px;
+    font-size: 12px !important;
+    padding: 1px 0 0 5px;
+}
+
+ul.todo.float-left-li {
+    clear: both;
+    width: 100%;
+}
+.datetime .fa {
+    color: #707070;
+    font-size: 14px;
+    padding: 0 3px 0 0;
+}
+
+.datetime span {
+      font-size: 12px;
+    color: #9A9A9A;
+    padding: 0 20px 0 0;
+}
+.copy.trash .fa {
+    font-size: 16px;
+    color: #707070;
+}
+.work-box .invoice-box .amount {
+    min-height: 85px;
+}
+.money-box .invoice-box .amount p {
+    color: #343434;
+    font-size: 14px;
+}
+
+.money-box .invoice-box .amount h4 {
+    margin: 20px 0 15px 0;
+}
+
+.money-box .invoice-box .amount {
+    min-height: 175px;
+}
+
+.bg-purple {
+    font-size: 12px;
+    background: #892BBA;
+    color: #fff;
+    padding: 5px 12px;
+    border-radius: 3px;
+}
+
+.money-box .invoice-box .grid-footer {
+    font-size: 18px;
+    color: #343434;
+}
+.blue { background:#1DBCE8}
+span.no-descp {
+    color: #cecece;
+}
